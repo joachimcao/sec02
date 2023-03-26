@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.113 (w)1999-2022 BSI
+[*] Sun Mar 26 06:48:04 2023
+[*]
+[dumpfile] "/home/ioachimus/documents/tex/comparch-lab/seminar/sec02/code/sec02/prob01-inc/tb/wave.fst"
+[dumpfile_mtime] "Sun Mar 26 06:47:22 2023"
+[dumpfile_size] 695
+[savefile] "/home/ioachimus/documents/tex/comparch-lab/seminar/sec02/code/sec02/prob01-inc/tb/wave.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-5.694909 72 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 313
+[signals_width] 142
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+TOP.clk_i
+@29
+TOP.rst_ni
+@22
+TOP.data_i[3:0]
+TOP.incr_o[3:0]
+[pattern_trace] 1
+[pattern_trace] 0
